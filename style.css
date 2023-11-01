@@ -26,7 +26,7 @@
 }
 
 .input-box {
-    margin: 40px 0;
+    margin: 35px 0;
     padding: 35px;
     border-radius: 10px;
     background: rgba(255, 255, 255, 0.3);
@@ -75,4 +75,10 @@
 
 #result span{
     color: #ffff76
+}
+
+#select-dob {
+    margin-top: 10px;
+    color: #fff;
+    font-size: 15px;
 }
